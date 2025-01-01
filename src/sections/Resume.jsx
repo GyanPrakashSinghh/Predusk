@@ -13,7 +13,7 @@ const Resume = () => (
       download
       className="border border-white text-white py-2 px-4 rounded-lg hover:bg-white hover:text-black transition duration-300"
     >
-      Download My Resume
+      View My Resume
     </a>
   </section>
 );
